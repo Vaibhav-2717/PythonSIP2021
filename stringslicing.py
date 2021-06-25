@@ -6,7 +6,6 @@ print(a[2:]);   #slice from end
   
 print(a[-5:-2]);
 
-
 print(a.upper());  #upper case
 print(a.lower());  #lowercase
 print(a.strip());   #remove white space
